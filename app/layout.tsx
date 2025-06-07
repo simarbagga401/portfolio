@@ -14,8 +14,8 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "Portfolio | Simar Singh Bagga",
-  description:
-    "Personal portfolio showcasing my work and experience in full-stack development",
+  description: "Personal portfolio showcasing my work and experience in full-stack development",
+  viewport: "width=device-width, initial-scale=1, maximum-scale=1",
 };
 
 export default function RootLayout({

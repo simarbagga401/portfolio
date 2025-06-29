@@ -200,14 +200,22 @@ export default function Home() {  return (
 
         <WorkExperience
           company="Rentkar - Switch to Share"
-          role="Software Development Intern"
-          duration="3 months"
-          description="Contributed to rentkar.app, gaining hands-on experience in full-stack development. Worked on Complex Software and Learned how to work in a team."
-        />        <WorkExperience
+          role="Full Stack Developer"
+          duration="May 2025 - Present"
+          description="Working full-time at rentkar.app, developing and maintaining complex software solutions. Gaining extensive experience in full-stack development and collaborative team environments."
+        />        
+        <WorkExperience
           company="Solveeit"
           role="Software Development Intern"
           duration="3 months"
           description="Worked on solveeit.ai, used rag, ai-agents, nextjs + typescript."
+        />
+
+        <WorkExperience
+          company="Rentkar - Switch to Share"
+          role="Software Development Intern"
+          duration="3 months"
+          description="Contributed to rentkar.app, gaining hands-on experience in full-stack development. Worked on complex software and learned how to work in a team."
         />
           <div className="mt-6 sm:mt-8 relative">
           <h3 className="text-lg sm:text-xl font-semibold mb-3 sm:mb-4 text-white relative z-10">Featured Project</h3>
